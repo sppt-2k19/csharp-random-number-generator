@@ -1,0 +1,11 @@
+/Users/thor/RiderProjects/csharp-RandomNumberGenerator/csharp-RandomNumberGenerator/bin/Debug/netcoreapp2.2/csharp-RandomNumberGenerator.deps.json
+/Users/thor/RiderProjects/csharp-RandomNumberGenerator/csharp-RandomNumberGenerator/bin/Debug/netcoreapp2.2/csharp-RandomNumberGenerator.runtimeconfig.json
+/Users/thor/RiderProjects/csharp-RandomNumberGenerator/csharp-RandomNumberGenerator/bin/Debug/netcoreapp2.2/csharp-RandomNumberGenerator.runtimeconfig.dev.json
+/Users/thor/RiderProjects/csharp-RandomNumberGenerator/csharp-RandomNumberGenerator/bin/Debug/netcoreapp2.2/csharp-RandomNumberGenerator.dll
+/Users/thor/RiderProjects/csharp-RandomNumberGenerator/csharp-RandomNumberGenerator/bin/Debug/netcoreapp2.2/csharp-RandomNumberGenerator.pdb
+/Users/thor/RiderProjects/csharp-RandomNumberGenerator/csharp-RandomNumberGenerator/obj/Debug/netcoreapp2.2/csharp-RandomNumberGenerator.csprojAssemblyReference.cache
+/Users/thor/RiderProjects/csharp-RandomNumberGenerator/csharp-RandomNumberGenerator/obj/Debug/netcoreapp2.2/csharp-RandomNumberGenerator.csproj.CoreCompileInputs.cache
+/Users/thor/RiderProjects/csharp-RandomNumberGenerator/csharp-RandomNumberGenerator/obj/Debug/netcoreapp2.2/csharp-RandomNumberGenerator.AssemblyInfoInputs.cache
+/Users/thor/RiderProjects/csharp-RandomNumberGenerator/csharp-RandomNumberGenerator/obj/Debug/netcoreapp2.2/csharp-RandomNumberGenerator.AssemblyInfo.cs
+/Users/thor/RiderProjects/csharp-RandomNumberGenerator/csharp-RandomNumberGenerator/obj/Debug/netcoreapp2.2/csharp-RandomNumberGenerator.dll
+/Users/thor/RiderProjects/csharp-RandomNumberGenerator/csharp-RandomNumberGenerator/obj/Debug/netcoreapp2.2/csharp-RandomNumberGenerator.pdb
